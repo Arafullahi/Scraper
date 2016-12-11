@@ -1,2 +1,2 @@
 # Scraper
-Used Beautiful Soup and Request to scrape data from a website and export as excel file.
+Used Beautiful Soup,Request and Python to scrape data from a website and export as excel file.
